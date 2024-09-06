@@ -1,0 +1,33 @@
+﻿  char2int.cpp
+E:\JLU-Exp\JLU98Manager\char2int.cpp(7,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  customer.cpp
+E:\JLU-Exp\JLU98Manager\customer.h(1,1): warning C4828: 文件包含在偏移 0x560 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\JLU-Exp\JLU98Manager\customer.cpp(244,12): warning C4101: “temp”: 未引用的局部变量
+  Fuzzy_search.cpp
+  order.cpp
+E:\JLU-Exp\JLU98Manager\customer.h(1,1): warning C4828: 文件包含在偏移 0x560 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  prediction.cpp
+E:\JLU-Exp\JLU98Manager\prediction.cpp(40,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(96,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(96,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(101,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(133,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(135,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(135,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\JLU-Exp\JLU98Manager\prediction.cpp(136,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  purchase.cpp
+E:\JLU-Exp\JLU98Manager\Purchase.h(1,1): warning C4828: 文件包含在偏移 0x2a2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  storage.cpp
+E:\JLU-Exp\JLU98Manager\Purchase.h(1,1): warning C4828: 文件包含在偏移 0x2a2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.cpp
+  Manager.cpp
+E:\JLU-Exp\JLU98Manager\customer.h(1,1): warning C4828: 文件包含在偏移 0x560 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\JLU-Exp\JLU98Manager\purchase.h(1,1): warning C4828: 文件包含在偏移 0x2a2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Time.cpp
+  正在生成代码...
+E:\JLU-Exp\JLU98Manager\Time.cpp(195): warning C4715: “Time_compare”: 不是所有的控件路径都返回值
+E:\JLU-Exp\JLU98Manager\customer.cpp(233): warning C4715: “Customer_change”: 不是所有的控件路径都返回值
+E:\JLU-Exp\JLU98Manager\customer.cpp(385): warning C4715: “Customer_delete”: 不是所有的控件路径都返回值
+E:\JLU-Exp\JLU98Manager\char2int.cpp(26): warning C4172: 返回局部变量或临时变量的地址: arr
+E:\JLU-Exp\JLU98Manager\char2int.cpp(46): warning C4172: 返回局部变量或临时变量的地址: arr
+  JLU98Manager.vcxproj -> E:\JLU-Exp\JLU98Manager\x64\Debug\JLU98Manager.exe

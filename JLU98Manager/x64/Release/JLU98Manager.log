@@ -1,0 +1,13 @@
+﻿  char2int.cpp
+E:\vs 2022\JLU98Manager\char2int.cpp(7,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  customer.cpp
+E:\vs 2022\JLU98Manager\customer.h(1,1): warning C4828: 文件包含在偏移 0x4cb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.cpp
+  Manager.cpp
+E:\vs 2022\JLU98Manager\IMAGE.h(1,1): warning C4828: 文件包含在偏移 0xfe 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\vs 2022\JLU98Manager\customer.h(1,1): warning C4828: 文件包含在偏移 0x4cb 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  JLU98Manager.vcxproj -> E:\vs 2022\JLU98Manager\x64\Release\JLU98Manager.exe
